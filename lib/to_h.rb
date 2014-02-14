@@ -43,15 +43,15 @@ if RUBY_VERSION < '2.0'
 
     # @return [Hash]
     def to_h
-		  hsh = {}
-		  none = class.new.new
-		  each do |k,v=none,*x|
+      hsh = {}
+      none = class.new.new
+      each do |k,v=none,*x|
         raise ArgumentError, "element has wrong array length (expected 2, was 1)" if v == none
         raise ArgumentError, "element has wrong array length (expected 2, was #{x.length+2})" if x.any?
         hsh[k] = v
       end
       hsh
-	  end
+    end
 
   end
 
