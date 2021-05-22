@@ -3,7 +3,6 @@ Gem::Specification.new do |gem|
   gem.version       = '0.0.3'
   gem.summary       = 'Add SomePairs#to_h for compatibility with Ruby 2.0+'
   gem.description   = gem.summary.dup
-  gem.homepage      = 'http://kachick.github.com/to_h/'
 
   gem.required_ruby_version = '>= 1.8.7'
 

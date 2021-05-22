@@ -1,14 +1,15 @@
 to_h
 =====
 
-[![Build Status](https://secure.travis-ci.org/kachick/to_h.png)](http://travis-ci.org/kachick/to_h)
-[![Gem Version](https://badge.fury.io/rb/to_h.png)](http://badge.fury.io/rb/to_h)
+* ***This repository is archived***
+* ***No longer maintained***
+* ***All versions have been yanked from https://rubygems.org for releasing valuable namespace for others***
 
 Description
 -----------
 
 Add SomePairs#to_h for compatibility with Ruby 2.0+  
-http://d.hatena.ne.jp/nagachika/20120416/ruby_trunk_changes_35337_35352
+http://d.hatena.ne.jp/nagachika/20120416/ruby_trunk_changes_35337_35352 (ja)
 
 Features
 --------
@@ -46,23 +47,6 @@ Requirements
 -------------
 
 * Ruby - [1.8.7 or later](http://travis-ci.org/#!/kachick/to_h)
-
-Install
--------
-
-```bash
-$ gem install to_h
-```
-
-Link
-----
-
-* [Home](http://kachick.github.com/to_h/)
-* [code](https://github.com/kachick/to_h)
-* [API](http://kachick.github.com/to_h/yard/frames.html)
-* [issues](https://github.com/kachick/to_h/issues)
-* [CI](http://travis-ci.org/#!/kachick/to_h)
-* [gem](https://rubygems.org/gems/to_h)
 
 License
 --------
